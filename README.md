@@ -1,6 +1,6 @@
 # Number Guess using HTML, CSS & JavaScript
 
-GitHub Page https://kumar-tushar.github.io/Number-Guess-JavaScript/
+GitHub Page https://kumar-tushar.github.io/Number-Guess-JavaScript/ (Best for Desktop View)
 
 # Quick Start
 ``` bash
